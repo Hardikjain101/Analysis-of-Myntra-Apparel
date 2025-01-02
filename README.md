@@ -1,4 +1,4 @@
-# Myntra Sales Analysis Project  
+# Myntra Sales Analysis Project  - EXCEL
 
 This project demonstrates data cleaning, preparation, analysis, and retrieval techniques on Myntra's sales dataset using **Microsoft Excel**. The goal is to derive actionable insights, streamline data, and showcase advanced Excel functionalities to solve real-world business problems.
 
